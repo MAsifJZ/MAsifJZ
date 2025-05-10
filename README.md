@@ -9,7 +9,7 @@ Hi! I'm M. Asif Jawad Zeem — a motivated learner with a background in Microsof
 🔹 I believe in continuous learning and open collaboration. <br>
 🔹 Outside of work, I enjoy browsing the internet and staying updated with current trends.
 
-Skills: MS word/Excel/Powerpoint, SPSS
+Skills: MS word/Excel/Powerpoint, SPSS.
 
 - 🔭 I’m currently working on  Learning how to use **GitHub** for professional growth. <br> Understanding basic **version control** and **project collaboration**. <br> Exploring **online tools** for data handling and presentation. <br> Building a beginner-friendly **GitHub portfolio** to showcase my progress  ---  
 - 🌱 I’m currently learning How GitHub works;  Basic web tools and digital collaboration;  Data visualization and presentation techniques. 
