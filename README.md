@@ -1,4 +1,4 @@
-![Curious mind with a passion for learning and communication.](https://i.postimg.cc/MpjSrvrG/Chat-GPT-Image-May-10-2025-01-41-35-PM.png)
+![Curious mind with a passion for learning and communication.](https://i.postimg.cc/85WgP56C/Chat-GPT-Image-May-10-2025-01-41-35-PM.png)
 ### Hi there 👋, I am M. Asif Jawad Zeem
 #### Curious mind with a passion for learning and communication.
 
