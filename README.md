@@ -5,8 +5,8 @@
 
 Hi! I'm M. Asif Jawad Zeem — a motivated learner with a background in Microsoft Office tools (Word, Excel, PowerPoint) and SPSS. I have strong communication skills in English and Bangla, and I enjoy working with information, organizing data, and presenting it clearly.
 
-🔹 I'm currently exploring GitHub and digital tools to grow my skills in tech and data.
-🔹 I believe in continuous learning and open collaboration.
+🔹 I'm currently exploring GitHub and digital tools to grow my skills in tech and data. <br>
+🔹 I believe in continuous learning and open collaboration. <br>
 🔹 Outside of work, I enjoy browsing the internet and staying updated with current trends.
 
 Skills: MS word/Excel/Powerpoint, SPSS
