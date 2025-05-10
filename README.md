@@ -13,7 +13,7 @@ Skills: MS word/Excel/Powerpoint, SPSS.
 
 - 🔭 I’m currently working on  Learning how to use **GitHub** for professional growth. <br> Understanding basic **version control** and **project collaboration**. <br> Exploring **online tools** for data handling and presentation. <br> Building a beginner-friendly **GitHub portfolio** to showcase my progress  ---  
 - 🌱 I’m currently learning How GitHub works;  Basic web tools and digital collaboration;  Data visualization and presentation techniques. 
-- 👯 I’m looking to collaborate on github .
+- 👯 I’m looking to collaborate on github.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MAsifJZ)  
