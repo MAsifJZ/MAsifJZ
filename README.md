@@ -22,9 +22,9 @@ Skills: MS word/Excel/Powerpoint, SPSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MAsifJZ&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/MAsifJZ/contributions?format=svg&private=true)  
+  
 
-![GitHub metrics](https://metrics.lecoq.io/MAsifJZ)  
+ 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MAsifJZ)  
 
